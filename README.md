@@ -29,5 +29,6 @@ The training data consists of a few hundred videos categorised into one of the f
 
 ### Results:
 ![observations](https://user-images.githubusercontent.com/29462447/86066095-d501aa80-ba8e-11ea-82d8-4681e20e310e.png)
+
 I choose CNN+LSTM based model as the final choice due to fairly decent accuracy considering the type of data as well the no. of parameters as I wanted my model to be light weight in nature.
 
